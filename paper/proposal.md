@@ -5,3 +5,7 @@ The Internet of Things (IoTs) is constantly growing. As more devices become avai
 Edge devices are devices used for real-time analysis of data as it arrives, which provides immediate results using small amounts of volatile data. With more robust cloud analysis using big data provides the thorough modeling based on large amounts of data, these edge devices can be used to implement solutions with information received from the cloud analysis. 
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/b/bf/Edge_computing_infrastructure.png" >
+
+
+
+Edge devices in big data analysis
