@@ -38,10 +38,10 @@ For Spring 2022 Academic Calendar, refer to [https://registrar.umbc.edu/spring-g
 
 | **Date** | **Topic** |
 | --- | --- |
-| **Week 1<br/>2022-02-03** | - Big Data and Distributed Computing Introduction |
-| **Week 2<br/>2022-02-10** |- Distributed File Systems and File Formats<br/>- Distributed Databases: HBase/Accumulo, Cassandra |
-| **Week 3<br/>2022-02-17** |- Map Reduce Design Patterns<br/>- Introduction to Cloud Computing |
-| **Week 4<br/>2022-02-24** |- Introduction to Apache Spark<br/>- Spark Resilient Distributed Dataset (RDD), Data Frame<br/> |
+| ~**Week 1<br/>2022-02-03**~ | - ~Big Data and Distributed Computing Introduction~ |
+| ~**Week 2<br/>2022-02-10**~ |- ~Distributed File Systems and File Formats<br/>- Distributed Databases: HBase/Accumulo, Cassandra~ |
+| ~**Week 3<br/>2022-02-17**~ |- ~Map Reduce Design Patterns<br/>- Introduction to Cloud Computing~ |
+| ~**Week 4<br/>2022-02-24**~ |- ~Introduction to Apache Spark<br/>- Spark Resilient Distributed Dataset (RDD), Data Frame<br/>~ |
 | **Week 5<br/>2022-03-03** |- Spark Structured API Part 1 |
 | **Week 6<br/>2022-03-10** |- Spark Structured API Part 2 |
 | **Week 7<br/>2022-03-17** |- Structured Streaming Part 1 |
