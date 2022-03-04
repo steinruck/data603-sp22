@@ -45,8 +45,8 @@ For Spring 2022 Academic Calendar, refer to [https://registrar.umbc.edu/spring-g
 | **Week 5<br/>2022-03-03** |- Spark Structured API Part 1 |
 | **Week 6<br/>2022-03-10** |- Spark Structured API Part 2 |
 | **Week 7<br/>2022-03-17** |- Structured Streaming Part 1 |
-| **Week 8<br/>2022-03-24** |- Structured Streaming Part 2 |
-| **Week 9<br/>2022-03-31** |- No Class – Spring Break |
+| **Week 8<br/>2022-03-24** |- No Class – Spring Break |
+| **Week 9<br/>2022-03-31** |- Structured Streaming Part 2 |
 | **Week 10<br/>2022-04-07** |- Advanced Analytics Part 1 |
 | **Week 11<br/>2022-04-14** |- Advanced Analytics Part 2<br/>- _Project progress report_ |
 | **Week 12<br/>2022-04-21** |- Graph Processing |
