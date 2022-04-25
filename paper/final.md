@@ -72,7 +72,9 @@ There are several current projects involving the integration of cloud and edge c
 
 In the above image, three levels are used to achieve results. The end devices capture the information that needs to be processed (video, senors data, etc.), edge devices sit near the data source and perform the inference activities. The outcome from these is then sent to the cloud, where parameters for the model can be updated for better performance. The goal is to reduce bandwith and resource consumption while providing powerful computational abilities.[<sup>10</sup>](#resource-list) 
 
-Similar methods can be used with wearable health devices, smart speakers, or even unmaned drones. With distributed computing at the edge, the opportunities for real-time analytics are endless. 
+## Conclusion
+
+Similar methods can be used with wearable health devices, smart speakers, or even unmaned drones. With distributed computing at the edge, the opportunities for real-time analytics are endless. Edge computing isn't a replacement for traditional big data processing. With edge devices, data is collected and analyzed at or near the source, and only relevant information is passed to the cloud. This could be anything from value predictions to images labeled as relevant by the model rather than everything collected, saving time and resources in the long run. 
 
 ## <span style="color:#0c416a;">Resources:</span><a class="anchor" id="resource-list"></a>
 1. Kelly, W. (2019, July 12). Cloud cost implications of the 5 V's of big data. SearchCloudComputing. Retrieved April 17, 2022, from https://www.techtarget.com/searchcloudcomputing/tip/Cost-implications-of-the-5-Vs-of-big-dat
