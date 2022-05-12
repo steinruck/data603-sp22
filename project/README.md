@@ -19,7 +19,7 @@ https://github.com/formcept/whiteboard/tree/master/nbviewer/notebooks/data/harry
 - `presentation.pdf`: final presentation given in class describing the goal of the project, what was accomplished, how it was accomplished, and future considerations.
 - `preprocessing.ipynb`: Jupyter Notebooks that reads in each of the books, removes some page tagging, creates dataframe with content under `text` column, adds `titles` column, performs regex text cleaning, and exports to .csv
 - `books_6_rows.csv`: .csv file containing each of the books in its own row in the `text` column, and a `titles` column
-- `final.ipynb`: Jupyter Notebook containing all of the text analysis using Spark
+- `topic_modeling.ipynb`: Jupyter Notebook containing all of the text analysis using Spark
 - `README.md`: This document, describing the contents of the direcotry and the project
 - `RUBRIC.md`: Evaluation metrics for the project
 - `proposal.pdf`: Initial project proposal
@@ -30,7 +30,7 @@ https://github.com/formcept/whiteboard/tree/master/nbviewer/notebooks/data/harry
 **Project Was Completed in Google Colab**
 - preprocessing.ipynb:
   - if you would like to run the preprocssing, change any of the regex, etc, simply change the file paths saved in the list called `path_list` to the location of your .txt files. To export the new datframe to csv, change the path to your desired output location. 
-- final_sparknlp.ipynb:
+- topic_modeling.ipynb:
   - This notebook is set up to use the Google Colab environment. If not mounting to your Drive, comment out or delete the first cell. 
   - The second cell runs the Spark NLP setup.sh script from John Snow Labs. It us run every time the runtime starts.
   - All imports are at the top of the notebook
